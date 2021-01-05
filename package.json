@@ -19,7 +19,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.7.2",
     "@nuxtjs/bulma": "^1.2.1",
     "@vuex-orm/core": "^0.31.6",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
     "nuxt-fontawesome": "^0.4.0",
