@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.0",
     "nodemon": "^1.18.9"
   }
